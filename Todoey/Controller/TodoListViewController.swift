@@ -90,7 +90,7 @@ class TodoListViewController: UITableViewController {
         
         alert.addAction(action)
         
-        //show the alert
+        //show the alert show
         present(alert, animated: true, completion: nil)
         
     }
